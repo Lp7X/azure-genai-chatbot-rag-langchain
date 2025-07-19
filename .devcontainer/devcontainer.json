@@ -1,0 +1,17 @@
+{
+	"name": "Python 3",
+	"image": "mcr.microsoft.com/devcontainers/python:0-3.10-bullseye",
+
+	// Use 'postCreateCommand' to run commands after the container is created.
+	 "postCreateCommand": "pip install -r ./requirements.txt",
+
+	// Configure tool-specific properties.
+	 "customizations": {
+		"vscode": {
+			"extensions": [
+			  "ms-toolsai.jupyter",
+			  "ms-python.python"
+			]
+		  }
+	 }
+}
